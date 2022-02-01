@@ -360,6 +360,8 @@ Once the branch has been merged, it has served it's purpose and can be deleted.
 
 image::images/08-Merged.png[]
 
+I have made a change.
+
 
 Branches don't need to be deleted, but it is often best in order to keep everything
 tidy.
